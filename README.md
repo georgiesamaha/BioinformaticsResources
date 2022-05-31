@@ -14,6 +14,9 @@ List of tools for various bioinformatics methods and datasets
 |Array      |[SNPflip](https://github.com/biocore-ntnu/snpflip)            |find reverse and ambiguous strand SNPs |plink .bim     ||
 |Reference      |[Liftoff](https://github.com/agshumate/Liftoff)            |remap annotations between assemblies |gff, gtf   ||
 |WGS|[VCFvalidator](https://github.com/EBIvariation/vcf-validator)|Validate vcf integrity|vcf.gz vcf.bz2||
+|WGS|[LINX](https://github.com/hartwigmedical/hmftools)|Somatic structural variant classification|vcf|[Visualisation](https://github.com/hartwigmedical/hmftools/blob/master/linx/README_VIS.md)|
+|WGS|[PURPLE](https://github.com/hartwigmedical/hmftools/blob/master/purple/README.md)|Tumour purity and ploidy estimator|bam, vcf|[GPL pipeline](https://github.com/hartwigmedical/gridss-purple-linx)|
+
 
 ## RNAseq
 |Data type|Tool                                                  |Function                                    |Input requirements|Resources                                              |
@@ -26,7 +29,7 @@ List of tools for various bioinformatics methods and datasets
 ## Metagenomics
 ## Nextflow
 
-## Useful bioinformatics script repos 
+## Useful curated bioinformatics script and resource repos 
 
 |Who|Repo                                                  |Utility                                     |
 |---|------------------------------------------------------|--------------------------------------------|
@@ -34,6 +37,8 @@ List of tools for various bioinformatics methods and datasets
 |AstrobioMike|[Bioinformatics Tools](https://github.com/AstrobioMike/bit)|filtering, db querying|
 |davfre|[SAM and BAM oneliners](https://gist.github.com/davfre/8596159) |read counting, filtering|
 |EBI|[EBI Variation](https://github.com/EBIvariation)|various|
+|Hartwig medical foundation | [HMFtools](https://github.com/hartwigmedical/hmftools)|Various WGS|
+|Daniel Cook|[Awesome bioinformatics](https://github.com/danielecook/Awesome-Bioinformatics)|curated resource lists|
 
 ## Compute resource profiling
 
