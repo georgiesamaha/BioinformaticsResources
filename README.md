@@ -1,7 +1,8 @@
 # BioinformaticsResources
 List of tools for various bioinformatics methods and datasets
 
-## Genomics 
+## NGS data processing
+### Genomics 
 
 |Data type|Tool                                                  |Function                                    |Input requirements|Resources                                              |
 |---------|------------------------------------------------------|--------------------------------------------|------------------|-------------------------------------------------------|
@@ -18,16 +19,23 @@ List of tools for various bioinformatics methods and datasets
 |WGS|[PURPLE](https://github.com/hartwigmedical/hmftools/blob/master/purple/README.md)|Tumour purity and ploidy estimator|bam, vcf|[GPL pipeline](https://github.com/hartwigmedical/gridss-purple-linx)|
 
 
-## RNAseq
+### RNAseq
 |Data type|Tool                                                  |Function                                    |Input requirements|Resources                                              |
 |---------|------------------------------------------------------|--------------------------------------------|------------------|-------------------------------------------------------|
 |RNAseq      |[TMPcalculator](https://github.com/ncbi/TPMCalculator)            |find reverse and ambiguous strand SNPs |bam, gtf   ||
 
 
-## De novo transcriptomics
-## Hi-C
-## Metagenomics
-## Nextflow
+### De novo transcriptomics
+### Hi-C
+### Metagenomics
+
+## Commandline utilities 
+
+## Pipeline/workflow management 
+### Tool installation guides
+### Nextflow
+### Galaxy
+
 
 ## Useful curated bioinformatics script and resource repos 
 
