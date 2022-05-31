@@ -12,6 +12,7 @@ List of tools for various bioinformatics methods and datasets
 |WGS      |[GRIDSS2](https://github.com/PapenfussLab/gridss)            |Structural variant caller |bam           |[Wiki](https://github.com/PapenfussLab/gridss/wiki/Somatic-Filtering)          |
 |Array, WGS      |[Plink](https://www.cog-genomics.org/plink2/)            |Everything |vcf, bcf, plink     ||
 |Array      |[SNPflip](https://github.com/biocore-ntnu/snpflip)            |find reverse and ambiguous strand SNPs |plink .bim     ||
+|Reference      |[Liftoff](https://github.com/agshumate/Liftoff)            |remap annotations between assemblies |gff, gtf   ||
 
 
 ## RNAseq
@@ -31,7 +32,7 @@ List of tools for various bioinformatics methods and datasets
 |---|------------------------------------------------------|--------------------------------------------|
 |PeterMac|[PMCC](https://github.com/PMCC-BioinformaticsCore/scripts)|plotting, fastqc, rnaseq, performance, filtering|
 |AstrobioMike|[Bioinformatics Tools](https://github.com/AstrobioMike/bit)|filtering, db querying|
-
+|davfre|[SAM and BAM oneliners](https://gist.github.com/davfre/8596159) |read counting, filtering|
 
 ## Compute resource profiling
 
@@ -39,5 +40,6 @@ List of tools for various bioinformatics methods and datasets
 |----|------------------------------------------------------|
 |[async-profiler](https://github.com/jvm-profiling-tools/async-profiler)|cloud, VM                                             |
 |[HPC usage reports](https://github.com/Sydney-Informatics-Hub/HPC_usage_reports)|HPC, Artemis, Gadi, Flashlite   |
+|[Memray](https://github.com/bloomberg/memray) |cloud, VM|
 
 ## Plotting 
