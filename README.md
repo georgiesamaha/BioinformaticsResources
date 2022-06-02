@@ -47,6 +47,8 @@ List of tools for various bioinformatics methods and datasets
 |EBI|[EBI Variation](https://github.com/EBIvariation)|various|
 |Hartwig medical foundation | [HMFtools](https://github.com/hartwigmedical/hmftools)|Various WGS|
 |Daniel Cook|[Awesome bioinformatics](https://github.com/danielecook/Awesome-Bioinformatics)|curated resource lists|
+|nf-core|[nf-core tools](https://github.com/nf-core/tools)|nf-core helper scripts|
+
 
 ## Compute resource profiling
 
