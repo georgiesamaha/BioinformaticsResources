@@ -48,7 +48,7 @@ List of tools for various bioinformatics methods and datasets
 |Hartwig medical foundation | [HMFtools](https://github.com/hartwigmedical/hmftools)|Various WGS|
 |Daniel Cook|[Awesome bioinformatics](https://github.com/danielecook/Awesome-Bioinformatics)|curated resource lists|
 |nf-core|[nf-core tools](https://github.com/nf-core/tools)|nf-core helper scripts|
-
+|AWS|[amazon-genomics-cli](https://github.com/aws/amazon-genomics-cli)|tool to simplify the processes of deploying the AWS infrastructure|
 
 ## Compute resource profiling
 
