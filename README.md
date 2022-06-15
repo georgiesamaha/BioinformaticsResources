@@ -18,24 +18,29 @@ List of tools for various bioinformatics methods and datasets
 |WGS|[LINX](https://github.com/hartwigmedical/hmftools)|Somatic structural variant classification|vcf|[Visualisation](https://github.com/hartwigmedical/hmftools/blob/master/linx/README_VIS.md)|
 |WGS|[PURPLE](https://github.com/hartwigmedical/hmftools/blob/master/purple/README.md)|Tumour purity and ploidy estimator|bam, vcf|[GPL pipeline](https://github.com/hartwigmedical/gridss-purple-linx)|
 
-
 ### RNAseq
 |Data type|Tool                                                  |Function                                    |Input requirements|Resources                                              |
 |---------|------------------------------------------------------|--------------------------------------------|------------------|-------------------------------------------------------|
 |RNAseq      |[TMPcalculator](https://github.com/ncbi/TPMCalculator)            |find reverse and ambiguous strand SNPs |bam, gtf   ||
 
 
+
 ### De novo transcriptomics
-### Hi-C
-### Metagenomics
+|Data type|Tool                                                  |Function                                    |Input requirements|Resources                                              |
+|---------|------------------------------------------------------|--------------------------------------------|------------------|-------------------------------------------------------|
+|De novo transcriptomics      |[Trinity runtime profiling](https://github.com/trinityrnaseq/trinityrnaseq/wiki/Trinity-Runtime-Profiling)            |Understand resource requirements of a trinity run |NA ||
+|De novo transcriptomics      |[Trinity benchmarking](https://trinityrnaseq.github.io/performance/benchmark.html#)            |Understand resource requirements of a trinity run |NA ||
 
 ## Commandline utilities 
 
 ## Pipeline/workflow management 
 ### Tool installation guides
 ### Nextflow
-### Galaxy
+[DIY Nextflow tutorial](https://sateeshperi.github.io/nextflow_varcal/nextflow/)   
+[Building DSL2 pipelines](https://antunderwood.gitlab.io/bioinformant-blog/posts/building_a_dsl2_pipeline_in_nextflow/)   
 
+### Galaxy
+[Galaxy training network](https://training.galaxyproject.org/training-material/)  
 
 ## Useful curated bioinformatics script and resource repos 
 
@@ -49,6 +54,7 @@ List of tools for various bioinformatics methods and datasets
 |Daniel Cook|[Awesome bioinformatics](https://github.com/danielecook/Awesome-Bioinformatics)|curated resource lists|
 |nf-core|[nf-core tools](https://github.com/nf-core/tools)|nf-core helper scripts|
 |AWS|[amazon-genomics-cli](https://github.com/aws/amazon-genomics-cli)|tool to simplify the processes of deploying the AWS infrastructure|
+|BioWulf|[GATK benchmarking](https://hpc.nih.gov/training/gatk_tutorial/)|benchmarking, scalability of GATK commands|
 
 ## Compute resource profiling
 
@@ -57,5 +63,7 @@ List of tools for various bioinformatics methods and datasets
 |[async-profiler](https://github.com/jvm-profiling-tools/async-profiler)|cloud, VM                                             |
 |[HPC usage reports](https://github.com/Sydney-Informatics-Hub/HPC_usage_reports)|HPC, Artemis, Gadi, Flashlite   |
 |[Memray](https://github.com/bloomberg/memray) |cloud, VM|
+|[NetData](https://github.com/netdata/netdata)|VM, cloud|
+
 
 ## Plotting 
