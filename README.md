@@ -55,6 +55,8 @@ List of tools for various bioinformatics methods and datasets
 |nf-core|[nf-core tools](https://github.com/nf-core/tools)|nf-core helper scripts|
 |AWS|[amazon-genomics-cli](https://github.com/aws/amazon-genomics-cli)|tool to simplify the processes of deploying the AWS infrastructure|
 |BioWulf|[GATK benchmarking](https://hpc.nih.gov/training/gatk_tutorial/)|benchmarking, scalability of GATK commands|
+|Xiaole Shirley Liu et al.|[Introduction to Bioinformatics and Computational Biology](https://liulab-dfci.github.io/bioinfo-combio/)|Course material for STAT115/215 BIO/BST282 at Harvard University|
+
 
 ## Compute resource profiling
 
