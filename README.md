@@ -69,3 +69,18 @@ List of tools for various bioinformatics methods and datasets
 
 
 ## Plotting 
+[vcfR](https://github.com/knausb/vcfR)   
+[CMplot](https://github.com/YinLiLin/CMplot)  
+[ggsashimi](https://github.com/guigolab/ggsashimi)  
+[BioCircos](https://cran.r-project.org/web/packages/BioCircos/vignettes/BioCircos.html)  
+[karyotypeR](https://bernatgel.github.io/karyoploter_tutorial/)  
+[samplot](https://github.com/ryanlayer/samplot)  
+[colourfindr](https://github.com/zumbov2/colorfindr)  
+[NanoPlot](https://github.com/wdecoster/NanoPlot)  
+[Raincloud plots](https://www.cedricscherer.com/2021/06/06/visualizing-distributions-with-raincloud-plots-and-how-to-create-them-with-ggplot2/)  
+[chromoMap](https://lakshay-anand.github.io/chromoMap/docs.html#Getting_Started)  
+[nVennR](https://cran.r-project.org/web/packages/nVennR/vignettes/nVennR.html)  
+[HaplotypePlot](https://neobernad.github.io/haplotype_plot/#/)  
+[Ideogram](https://eweitz.github.io/ideogram/)  
+[R graph grammar](https://www.huber.embl.de/msmb/Chap-Graphics.html)  
+[DiscoPlot](https://github.com/mjsull/DiscoPlot)  
