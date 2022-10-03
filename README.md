@@ -22,6 +22,10 @@ List of tools for various bioinformatics methods and datasets
 |Data type|Tool                                                  |Function                                    |Input requirements|Resources                                              |
 |---------|------------------------------------------------------|--------------------------------------------|------------------|-------------------------------------------------------|
 |RNAseq      |[TMPcalculator](https://github.com/ncbi/TPMCalculator)            |find reverse and ambiguous strand SNPs |bam, gtf   ||
+|RNAseq      |[DESeq2](http://bioconductor.org/packages/release/bioc/vignettes/DESeq2/inst/doc/DESeq2.html)            |differential expression |count matrix  ||
+|RNAseq      |[RNA-seqlopedia](https://rnaseq.uoregon.edu/)            |gene expression, annotation,splicing |  ||
+|scRNAseq      |[Single cell RNAseq course](https://jserizay.com/scRNAseq_Physalia_2022/introduction/)            ||  ||
+
 
 
 
@@ -31,10 +35,7 @@ List of tools for various bioinformatics methods and datasets
 |De novo transcriptomics      |[Trinity runtime profiling](https://github.com/trinityrnaseq/trinityrnaseq/wiki/Trinity-Runtime-Profiling)            |Understand resource requirements of a trinity run |NA ||
 |De novo transcriptomics      |[Trinity benchmarking](https://trinityrnaseq.github.io/performance/benchmark.html#)            |Understand resource requirements of a trinity run |NA ||
 
-## Commandline utilities 
-
 ## Pipeline/workflow management 
-### Tool installation guides
 ### Nextflow
 [DIY Nextflow tutorial](https://sateeshperi.github.io/nextflow_varcal/nextflow/)   
 [Building DSL2 pipelines](https://antunderwood.gitlab.io/bioinformant-blog/posts/building_a_dsl2_pipeline_in_nextflow/)   
